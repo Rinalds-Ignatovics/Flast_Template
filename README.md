@@ -1,3 +1,3 @@
 # Flask template
-## Autors: Rinalds Ignatovics
+## Autors: Rinalds Ignatovics DP 1-3 
 - Sākums
